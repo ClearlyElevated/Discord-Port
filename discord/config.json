@@ -1,6 +1,6 @@
 {
-	"prefix": "p!",
-	"TOKEN": "",
-	"mongousr": "sudo",
-	"mongopwd": ""
+	"prefix": "your bot's prefix",
+	"TOKEN": "your bot's token",
+	"mongousr": "mongo Username",
+	"mongopwd": "mongo Password"
 }
